@@ -1,0 +1,132 @@
+[
+        {
+            "id": "108",
+            "type": "custom",
+            "data": {
+                "label": "Partnerselskab (P/S)",
+                "conditionValues": []
+            },
+            "position": {
+                "x": -38,
+                "y": -11
+            }
+        },
+        {
+            "id": "109",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "conditionValues": []
+            },
+            "position": {
+                "x": -13,
+                "y": 112
+            }
+        },
+        {
+            "id": "110",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "conditionValues": []
+            },
+            "position": {
+                "x": -194,
+                "y": 275
+            }
+        },
+        {
+            "id": "111",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 225,
+                "y": 276
+            }
+        },
+        {
+            "id": "112",
+            "type": "custom",
+            "data": {
+                "label": "Kunde",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 56,
+                "y": 439
+            }
+        },
+        {
+            "id": "34",
+            "source": "111",
+            "target": "112",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Aftale eller dokument",
+                "comparison_type": "is equal to",
+                "comparison_value": "kontrakt"
+            },
+            "label": "Aftale eller dokument is equal to kontrakt"
+        },
+        {
+            "id": "35",
+            "source": "110",
+            "target": "112",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Aftale eller dokument",
+                "comparison_type": "is equal to",
+                "comparison_value": "kontrakt"
+            },
+            "label": "Aftale eller dokument is equal to kontrakt"
+        },
+        {
+            "id": "36",
+            "source": "109",
+            "target": "111",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Overførsel",
+                "comparison_type": "is equal to",
+                "comparison_value": "Data"
+            },
+            "label": "Overførsel is equal to Data"
+        },
+        {
+            "id": "37",
+            "source": "109",
+            "target": "110",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Overførsel",
+                "comparison_type": "is equal to",
+                "comparison_value": "Data"
+            },
+            "label": "Overførsel is equal to Data"
+        },
+        {
+            "id": "38",
+            "source": "108",
+            "target": "109",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Overførsel",
+                "comparison_type": "is equal to",
+                "comparison_value": "Data"
+            },
+            "label": "Overførsel is equal to Data"
+        }
+    ]

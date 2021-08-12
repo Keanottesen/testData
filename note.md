@@ -1,0 +1,1 @@
+hvis condition 6 er løst på workspace 4 og condition 7 er løst på workspace 5, så tror jeg opgaven er løst

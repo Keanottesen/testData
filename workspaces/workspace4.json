@@ -1,0 +1,852 @@
+[
+        {
+            "id": "5675",
+            "type": "custom",
+            "data": {
+                "label": "Partnerselskab (P/S)",
+                "displayName": "kean og partners",
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 466,
+                "y": 143
+            }
+        },
+        {
+            "id": "5676",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 311,
+                "y": 269
+            }
+        },
+        {
+            "id": "5677",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 747,
+                "y": 279
+            }
+        },
+        {
+            "id": "5678",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 945,
+                "y": 265
+            }
+        },
+        {
+            "id": "5679",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 172,
+                "y": 393
+            }
+        },
+        {
+            "id": "5680",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 547,
+                "y": 287
+            }
+        },
+        {
+            "id": "5681",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 279,
+                "y": 396
+            }
+        },
+        {
+            "id": "5682",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 951,
+                "y": 393
+            }
+        },
+        {
+            "id": "5683",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 621,
+                "y": 399
+            }
+        },
+        {
+            "id": "5684",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 760,
+                "y": 385
+            }
+        },
+        {
+            "id": "5685",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 512,
+                "y": 400
+            }
+        },
+        {
+            "id": "5686",
+            "type": "custom",
+            "data": {
+                "label": "Leverandør",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 389,
+                "y": 395
+            }
+        },
+        {
+            "id": "5687",
+            "type": "custom",
+            "data": {
+                "label": "Kunde",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 296,
+                "y": 554
+            }
+        },
+        {
+            "id": "5688",
+            "type": "custom",
+            "data": {
+                "label": "Kunde",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 401,
+                "y": 552
+            }
+        },
+        {
+            "id": "5689",
+            "type": "custom",
+            "data": {
+                "label": "Kunde",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 574,
+                "y": 569
+            }
+        },
+        {
+            "id": "5690",
+            "type": "custom",
+            "data": {
+                "label": "Kunde",
+                "displayName": null,
+                "figur": null,
+                "unitNumber": null,
+                "attributes": [],
+                "backgroundColor": "rgba(undefined, undefined, undefined, undefined)",
+                "borderColor": "rgba(undefined, undefined, undefined, undefined)"
+            },
+            "position": {
+                "x": 785,
+                "y": 569
+            }
+        },
+        {
+            "id": "5403",
+            "source": "5675",
+            "target": "5678",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5404",
+            "source": "5675",
+            "target": "5677",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5405",
+            "source": "5675",
+            "target": "5676",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5406",
+            "source": "5675",
+            "target": "5680",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Transaktion",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5407",
+            "source": "5676",
+            "target": "5681",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5408",
+            "source": "5676",
+            "target": "5679",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5409",
+            "source": "5676",
+            "target": "5686",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5411",
+            "source": "5679",
+            "target": "5687",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Aftale eller dokument",
+                "value": "kontrakt",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "kontrakt",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5412",
+            "source": "5681",
+            "target": "5687",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Aftale eller dokument",
+                "value": "Kontrakt",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Kontrakt",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5415",
+            "source": "5686",
+            "target": "5688",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Aftale eller dokument",
+                "value": "Kontrakt",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Kontrakt",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5416",
+            "source": "5680",
+            "target": "5685",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5417",
+            "source": "5680",
+            "target": "5683",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5418",
+            "source": "5685",
+            "target": "5689",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Aftale eller dokument",
+                "value": "Kontrakt",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Kontrakt",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5419",
+            "source": "5683",
+            "target": "5689",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Aftale eller dokument",
+                "value": "Kontrakt",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Kontrakt",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5420",
+            "source": "5677",
+            "target": "5684",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Overførsel",
+                "value": "Data",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Data",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5421",
+            "source": "5684",
+            "target": "5690",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Aftale eller dokument",
+                "value": "Kontrakt",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "Kontrakt",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        },
+        {
+            "id": "5422",
+            "source": "5678",
+            "target": "5682",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Transaktion",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": null
+        }
+    ]
