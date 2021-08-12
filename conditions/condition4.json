@@ -1,0 +1,26 @@
+[
+        {
+            "id": "69",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "70",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ]

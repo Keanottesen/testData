@@ -1,0 +1,39 @@
+[
+        {
+            "id": "60",
+            "type": "custom",
+            "data": {
+                "label": "*",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 575,
+                "y": 227
+            }
+        },
+        {
+            "id": "61",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 568,
+                "y": 405
+            }
+        },
+        {
+            "id": "10",
+            "source": "60",
+            "target": "61",
+            "sourceHandle": "rightBottom",
+            "targetHandle": "rightTop",
+            "type": "custom",
+            "data": {
+                "label": "Transaktion",
+                "comparison_type": "is equal to",
+                "comparison_value": "SHL"
+            }
+        }
+    ]

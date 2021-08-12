@@ -1,0 +1,682 @@
+[
+        {
+            "id": "5558",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Elsass Fonden",
+                "figur": null,
+                "unitNumber": "4000799529",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 333,
+                "y": 0
+            }
+        },
+        {
+            "id": "5559",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Core Bolig VIII Investor Kommanditakties",
+                "figur": null,
+                "unitNumber": "4006849408",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 0,
+                "y": 86
+            }
+        },
+        {
+            "id": "5560",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "MOVOTEC A/S",
+                "figur": null,
+                "unitNumber": "4001908097",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 222,
+                "y": 86
+            }
+        },
+        {
+            "id": "5561",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Core Bolig IV Investorkommanditaktiesels",
+                "figur": null,
+                "unitNumber": "4003795606",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 444,
+                "y": 86
+            }
+        },
+        {
+            "id": "5562",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Elsass Invest ApS",
+                "figur": null,
+                "unitNumber": "4006661241",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 1110,
+                "y": 86
+            }
+        },
+        {
+            "id": "5563",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "CORE BOLIG IV KOMMANDITAKTIESELSKAB",
+                "figur": null,
+                "unitNumber": "4002033337",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 444,
+                "y": 172
+            }
+        },
+        {
+            "id": "5564",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "K Alternativ Private Equity 2021 K/S",
+                "figur": null,
+                "unitNumber": "4008495545",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 666,
+                "y": 172
+            }
+        },
+        {
+            "id": "5565",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "K Alternativ Private Equity 2020 K/S",
+                "figur": null,
+                "unitNumber": "4008317003",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 888,
+                "y": 172
+            }
+        },
+        {
+            "id": "5566",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Nordic Investment Opportunities CIV II K",
+                "figur": null,
+                "unitNumber": "4008363579",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 1110,
+                "y": 172
+            }
+        },
+        {
+            "id": "5567",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "K Alternativ Infrastruktur I K/S",
+                "figur": null,
+                "unitNumber": "4006952486",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 1332,
+                "y": 172
+            }
+        },
+        {
+            "id": "5568",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "K Alternativ Private Equity 2019 K/S",
+                "figur": null,
+                "unitNumber": "4007906143",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 1554,
+                "y": 172
+            }
+        },
+        {
+            "id": "5569",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "NIO CIV II ApS",
+                "figur": null,
+                "unitNumber": "4008572134",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 1110,
+                "y": 258
+            }
+        },
+        {
+            "id": "5570",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Core Bolig IV Alle Haven Holding ApS",
+                "figur": null,
+                "unitNumber": "4007418885",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 444,
+                "y": 258
+            }
+        },
+        {
+            "id": "5571",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Core IV Alle Haven ApS",
+                "figur": null,
+                "unitNumber": "4006216218",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 444,
+                "y": 344
+            }
+        },
+        {
+            "id": "5288",
+            "source": "5558",
+            "target": "5559",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "50-66,66%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "50-66,66%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5289",
+            "source": "5558",
+            "target": "5560",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5290",
+            "source": "5558",
+            "target": "5561",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "10-14,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "10-14,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5291",
+            "source": "5558",
+            "target": "5562",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5292",
+            "source": "5561",
+            "target": "5563",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "20-24,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "20-24,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5293",
+            "source": "5562",
+            "target": "5564",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "5-9,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "5-9,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5294",
+            "source": "5562",
+            "target": "5565",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "5-9,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "5-9,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5295",
+            "source": "5562",
+            "target": "5566",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "5-9,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "5-9,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5296",
+            "source": "5562",
+            "target": "5567",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "10-14,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "10-14,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5297",
+            "source": "5562",
+            "target": "5568",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "25-33,32%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "25-33,32%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5298",
+            "source": "5566",
+            "target": "5569",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5299",
+            "source": "5563",
+            "target": "5570",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5300",
+            "source": "5570",
+            "target": "5571",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        }
+]

@@ -1,0 +1,561 @@
+{
+    "id": 285,
+    "label": "Test",
+    "description": "Test",
+    "is_private": 0,
+    "type": "flow",
+    "x_position": 90,
+    "y_position": 208,
+    "zoom": 1,
+    "organization_id": 1,
+    "owner_id": 1,
+    "group_id": 14,
+    "created_at": "2021-08-10 16:01:12",
+    "updated_at": "2021-08-12 08:07:23",
+    "elements": [
+        {
+            "id": "5590",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Penelope Holding ApS",
+                "figur": null,
+                "unitNumber": "4008840817",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 266,
+                "y": -38
+            }
+        },
+        {
+            "id": "5591",
+            "type": "custom",
+            "data": {
+                "label": "Person",
+                "displayName": "Christian Aarrebo Hjortshøj",
+                "figur": null,
+                "unitNumber": "4000738181",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 266,
+                "y": -124
+            }
+        },
+        {
+            "id": "5592",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Juristic ApS",
+                "figur": null,
+                "unitNumber": "4008862861",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 296,
+                "y": 48
+            }
+        },
+        {
+            "id": "5593",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "3 LIEBST ApS",
+                "figur": null,
+                "unitNumber": "4653342",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 665,
+                "y": 82
+            }
+        },
+        {
+            "id": "5594",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "KNO Holding ApS",
+                "figur": null,
+                "unitNumber": "4008840832",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 488,
+                "y": -38
+            }
+        },
+        {
+            "id": "5595",
+            "type": "custom",
+            "data": {
+                "label": "Person",
+                "displayName": "Helene Bang Liebst",
+                "figur": null,
+                "unitNumber": "4006065148",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 656,
+                "y": 0
+            }
+        },
+        {
+            "id": "5596",
+            "type": "custom",
+            "data": {
+                "label": "Person",
+                "displayName": "Kean Nøbølle Ottesen",
+                "figur": null,
+                "unitNumber": "4008840831",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 488,
+                "y": -124
+            }
+        },
+        {
+            "id": "5597",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Odder & Co ApS",
+                "figur": null,
+                "unitNumber": "4006664901",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 434,
+                "y": 172
+            }
+        },
+        {
+            "id": "5599",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "AMAKITU ApS",
+                "figur": null,
+                "unitNumber": "4001953677",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 673,
+                "y": 320
+            }
+        },
+        {
+            "id": "5603",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "displayName": "Solrød Strandvej 66 ApS",
+                "figur": null,
+                "unitNumber": "4006665222",
+                "attributes": [],
+                "backgroundColor": "rgba(255, 255, 255, 1)",
+                "borderColor": "rgba(0, 0, 0, 1)"
+            },
+            "position": {
+                "x": 416,
+                "y": 312
+            }
+        },
+        {
+            "id": "5318",
+            "source": "5591",
+            "target": "5590",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5319",
+            "source": "5590",
+            "target": "5592",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "33,33-49,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "33,33-49,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5320",
+            "source": "5593",
+            "target": "5592",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "15-19,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "15-19,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5321",
+            "source": "5594",
+            "target": "5592",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "33,33-49,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "33,33-49,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5322",
+            "source": "5595",
+            "target": "5593",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5323",
+            "source": "5596",
+            "target": "5594",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "100%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "100%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5324",
+            "source": "5593",
+            "target": "5597",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "50-66,66%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "50-66,66%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5326",
+            "source": "5593",
+            "target": "5599",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "5-9,99%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "5-9,99%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5330",
+            "source": "5593",
+            "target": "5603",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "25-33,32%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "25-33,32%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5333",
+            "source": "5597",
+            "target": "5603",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "style": {
+                "stroke": "rgba(0, 0, 0, 1)"
+            },
+            "data": {
+                "label": "Ejerskab",
+                "value": "25-33,32%",
+                "showLabel": false,
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "showArrow": false,
+                "animated": false,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "label": "25-33,32%",
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": false,
+            "arrowHeadType": false,
+            "type": "default"
+        },
+        {
+            "id": "5340",
+            "source": "5593",
+            "target": "5599",
+            "sourceHandle": "rightTop",
+            "targetHandle": "rightBottom",
+            "style": {
+                "stroke": "rgba(255, 42, 42, 1)"
+            },
+            "data": {
+                "label": "Transaktion",
+                "value": "SHL",
+                "showLabel": false,
+                "color": {
+                    "r": 255,
+                    "g": 42,
+                    "b": 42,
+                    "a": 1
+                },
+                "showArrow": true,
+                "animated": true,
+                "lineThrough": false,
+                "stroke": false
+            },
+            "labelBgPadding": [
+                0,
+                0
+            ],
+            "labelStyle": {},
+            "animated": true,
+            "arrowHeadType": "arrowclosed",
+            "type": "custom"
+        }
+    ],
+    "group": "Corporate"
+}

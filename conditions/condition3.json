@@ -1,0 +1,40 @@
+[
+        {
+            "id": "56",
+            "type": "custom",
+            "data": {
+                "label": "Investor",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 351,
+                "y": 15
+            }
+        },
+        {
+            "id": "57",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 346,
+                "y": 231
+            }
+        },
+        {
+            "id": "7",
+            "source": "56",
+            "target": "57",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": "straight",
+            "data": {
+                "label": "Investering",
+                "comparison_type": "is greater than",
+                "comparison_value": "100000"
+            },
+            "label": "Investering is greater than 100000"
+        }
+    ]

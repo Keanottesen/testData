@@ -1,0 +1,108 @@
+[
+        {
+            "id": "49",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": [
+                    {
+                        "id": 22,
+                        "attribut_id": 13,
+                        "comparison_type": "is equal to",
+                        "comparison_value": "ApS",
+                        "condition_node_id": 49,
+                        "created_at": "2021-05-26 17:06:06",
+                        "updated_at": "2021-05-26 17:06:06",
+                        "attribut": {
+                            "id": 13,
+                            "label": "Selskabsform (DK)",
+                            "description": "Her skal vælges mellem selskabsformer",
+                            "type": "Value",
+                            "selectionOptions": null,
+                            "organization_id": 1,
+                            "group_id": 14,
+                            "created_at": "2021-05-17 09:05:14",
+                            "updated_at": "2021-06-28 09:24:28"
+                        }
+                    }
+                ]
+            },
+            "position": {
+                "x": 486,
+                "y": 550
+            }
+        },
+        {
+            "id": "50",
+            "type": "custom",
+            "data": {
+                "label": "Investor",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 266,
+                "y": 385
+            }
+        },
+        {
+            "id": "55",
+            "type": "custom",
+            "data": {
+                "label": "Investor",
+                "conditionValues": [
+                    {
+                        "id": 24,
+                        "attribut_id": 16,
+                        "comparison_type": "is greater than",
+                        "comparison_value": "10",
+                        "condition_node_id": 55,
+                        "created_at": "2021-05-28 12:39:16",
+                        "updated_at": "2021-05-28 12:39:16",
+                        "attribut": {
+                            "id": 16,
+                            "label": "Medarbejdere",
+                            "description": "Dette er en attribut for mulige antal medarbejdere",
+                            "type": "Selection",
+                            "selectionOptions": "[{\"label\":\"30\",\"value\":\"30\"},{\"label\":\"20\",\"value\":\"20\"},{\"label\":\"40\",\"value\":\"40\"}]",
+                            "organization_id": 1,
+                            "group_id": null,
+                            "created_at": "2021-05-27 13:21:22",
+                            "updated_at": "2021-06-13 09:51:29"
+                        }
+                    }
+                ]
+            },
+            "position": {
+                "x": 599,
+                "y": 357
+            }
+        },
+        {
+            "id": "1",
+            "source": "50",
+            "target": "49",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": "straight",
+            "data": {
+                "label": "Ejerskab",
+                "comparison_type": "is greater than",
+                "comparison_value": "20%"
+            },
+            "label": "Ejerskab is greater than 20%"
+        },
+        {
+            "id": "6",
+            "source": "55",
+            "target": "49",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Ejerskab",
+                "comparison_type": "is greater than",
+                "comparison_value": "20%"
+            },
+            "label": "Ejerskab is greater than 20%"
+        }
+    ]
