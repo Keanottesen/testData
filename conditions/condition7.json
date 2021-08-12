@@ -1,0 +1,210 @@
+[
+        {
+            "id": "113",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 11,
+                "y": 77
+            }
+        },
+        {
+            "id": "114",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 240,
+                "y": 100
+            }
+        },
+        {
+            "id": "115",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": -21,
+                "y": 157
+            }
+        },
+        {
+            "id": "116",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 17,
+                "y": -156
+            }
+        },
+        {
+            "id": "117",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 17,
+                "y": -49
+            }
+        },
+        {
+            "id": "118",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 246,
+                "y": -51
+            }
+        },
+        {
+            "id": "119",
+            "type": "custom",
+            "data": {
+                "label": "Person",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "120",
+            "type": "custom",
+            "data": {
+                "label": "Selskab",
+                "conditionValues": []
+            },
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "id": "39",
+            "source": "116",
+            "target": "117",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Ejerskab",
+                "comparison_type": "is equal to",
+                "comparison_value": "100%"
+            },
+            "label": "Ejerskab is equal to 100%"
+        },
+        {
+            "id": "40",
+            "source": "117",
+            "target": "118",
+            "sourceHandle": "rightTop",
+            "targetHandle": "leftTop",
+            "type": null,
+            "data": {
+                "label": "Fordring",
+                "comparison_type": "exists",
+                "comparison_value": "100%"
+            },
+            "label": "Fordring exists 100%"
+        },
+        {
+            "id": "41",
+            "source": "117",
+            "target": "113",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Ejerskab",
+                "comparison_type": "exists",
+                "comparison_value": "100%"
+            },
+            "label": "Ejerskab exists 100%"
+        },
+        {
+            "id": "42",
+            "source": "118",
+            "target": "114",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Ejerskab",
+                "comparison_type": "exists",
+                "comparison_value": "100%"
+            },
+            "label": "Ejerskab exists 100%"
+        },
+        {
+            "id": "43",
+            "source": "113",
+            "target": "115",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Investering",
+                "comparison_type": "exists",
+                "comparison_value": null
+            },
+            "label": "Investering exists "
+        },
+        {
+            "id": "44",
+            "source": "114",
+            "target": "115",
+            "sourceHandle": "bottom",
+            "targetHandle": "top",
+            "type": null,
+            "data": {
+                "label": "Investering",
+                "comparison_type": "exists",
+                "comparison_value": null
+            },
+            "label": "Investering exists "
+        },
+        {
+            "id": "45",
+            "source": "119",
+            "target": "115",
+            "sourceHandle": "bottom",
+            "targetHandle": "rightTop",
+            "type": null,
+            "data": {
+                "label": "Ejerskab",
+                "comparison_type": "exists",
+                "comparison_value": null
+            },
+            "label": "Ejerskab exists "
+        },
+        {
+            "id": "46",
+            "source": "119",
+            "target": "120",
+            "sourceHandle": "bottom",
+            "targetHandle": "leftTop",
+            "type": null,
+            "data": {
+                "label": "Ejerskab",
+                "comparison_type": "exists",
+                "comparison_value": null
+            },
+            "label": "Ejerskab exists "
+        }
+    ]
